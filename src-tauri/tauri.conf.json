@@ -40,7 +40,8 @@
       ],
       "windows": {
         "webviewInstallMode": {
-          "type": "offlineInstaller"
+          "type": "fixedRuntime",
+          "path": "Microsoft.WebView2"
         }
       }
     }
